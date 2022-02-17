@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table and list</title>
+</head>
+<body>
+    <ul type="circle" >
+        <li>this is first item of my unordered list </li>
+        <li>this is secound item of my unordered list </li>
+        <ul>
+            <li>another one </li>
+            <li>another two</li>
+            <ol type="i">
+                <li>how to become a rich</li>
+                <li>my name is abhishek</li>
+            </ol>
+        </ul>
+        <li>this is third item of my unordered list </li>
+    </ul>
+    <ol type="a">
+        <li>this is first item of my ordered list </li>
+        <li>this is secound item of my ordered list </li>
+        <li>this is third item of my ordered list </li>
+    </ol>
+<h3>table list</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Roll Number</th>
+            <th>character</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        <tr>
+            <td>Aditya</td>
+            <td>2001430100024</td>
+            <td> bhadva</td>
+        </tr>
+        <tr>
+            <td>Anubhav</td>
+            <td>2001430100050</td>
+            <td> Aditya se jyada bhadva </td>
+        </tr>
+        <tr>
+            <td>Anshu</td>
+            <td>2001430100049</td>
+            <td>sabse bda bhadva</td>
+        </tr>
+
+    </tbody>
+</table>
+</body>
+</html>
